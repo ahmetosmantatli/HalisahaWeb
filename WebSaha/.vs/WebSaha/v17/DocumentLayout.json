@@ -1,0 +1,1029 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|c:\\users\\ahmet\\source\\repos\\websaha\\websaha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\shop\\advertisement.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\shop\\advertisement.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\admincategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\admincategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\admin\\comment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\admin\\comment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\map.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\map.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\new.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\new.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\bg_border.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\bg_border.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\product-details\\share.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\product-details\\share.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\product-details\\rating.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\product-details\\rating.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\product-details\\new.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\product-details\\new.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\searchicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\searchicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\sale.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\sale.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\pricing.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\pricing.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\partner4.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\partner4.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\partner3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\partner3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\partner2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\partner2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\home\\partner1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\home\\partner1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\hal\u0131sahashop\\images\\blog\\socials.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\hal\u0131sahashop\\images\\blog\\socials.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41490225-F5A8-44FA-BF77-43FBF914454A}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\dataaccesslayer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41490225-F5A8-44FA-BF77-43FBF914454A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\roller\\adminrolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\roller\\adminrolprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\adminproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\adminproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\cart\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\cart\\totalcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\sales\\islem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\sales\\islem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\sales\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\sales\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\product\\popularproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\product\\popularproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\businesslayer\\abstract\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\businesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\businesslayer\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\businesslayer\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AC8A91-6BA0-4B69-A307-4599A4A0A71B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\websaha\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A34BD034-63CD-4DB1-BE07-7AD64F873DA2}|WebSaha\\WebSaha.csproj|solutionrelative:websaha\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|C:\\Users\\AHMET\\source\\repos\\WebSaha\\entitylayer\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B5833-781C-4913-83C8-FCA2345FC6A9}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 336,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:23:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:26:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Create.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminCategory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:30:37.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminCategory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:31:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminCategory\\Update.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminCategory\\Update.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminCategory\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:31:25.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "advertisement.jpg - Bitmap [1170x150, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\shop\\advertisement.jpg",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\shop\\advertisement.jpg",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\shop\\advertisement.jpg - Bitmap [1170x150, 24 bit, JPG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\shop\\advertisement.jpg - Bitmap [1170x150, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:10.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:13:13.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:28:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAANgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:22:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:38:16.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Admin\\Comment.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Admin\\Comment.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Admin\\Comment.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Admin\\Comment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:26:13.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T19:36:18.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:37:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T19:24:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "share.png - PNG [240x21, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\share.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\share.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\share.png - PNG [240x21, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\share.png - PNG [240x21, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "new.png - PNG [42x42, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\new.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\new.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\new.png - PNG [42x42, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\new.png - PNG [42x42, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:51.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "map.png - PNG [295x154, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\map.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\map.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\map.png - PNG [295x154, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\map.png - PNG [295x154, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:43.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "logo.png - PNG [130x50, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\logo.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\logo.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\logo.png - PNG [130x50, 24 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\logo.png - PNG [130x50, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:15:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "rating.png - PNG [80x12, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\rating.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\rating.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\rating.png - PNG [80x12, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\rating.png - PNG [80x12, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "new.jpg - Bitmap [44x22, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\new.jpg",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\new.jpg",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\product-details\\new.jpg - Bitmap [44x22, 24 bit, JPG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\product-details\\new.jpg - Bitmap [44x22, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:05.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bg_border.png - PNG [73x1, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\bg_border.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\bg_border.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\bg_border.png - PNG [73x1, 24 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\bg_border.png - PNG [73x1, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "searchicon.png - PNG [12x12, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\searchicon.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\searchicon.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\searchicon.png - PNG [12x12, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\searchicon.png - PNG [12x12, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:02.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sale.png - PNG [42x42, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\sale.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\sale.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\sale.png - PNG [42x42, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\sale.png - PNG [42x42, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:06:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pricing.png - PNG [172x172, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\pricing.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\pricing.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\pricing.png - PNG [172x172, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\pricing.png - PNG [172x172, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "partner4.png - PNG [153x42, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner4.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner4.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner4.png - PNG [153x42, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner4.png - PNG [153x42, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "partner3.png - PNG [150x40, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner3.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner3.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner3.png - PNG [150x40, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner3.png - PNG [150x40, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "partner2.png - PNG [142x29, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner2.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner2.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner2.png - PNG [142x29, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner2.png - PNG [142x29, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:53.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "partner1.png - PNG [137x59, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner1.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner1.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\home\\partner1.png - PNG [137x59, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\home\\partner1.png - PNG [137x59, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "socials.png - PNG [240x21, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\blog\\socials.png",
+              "RelativeDocumentMoniker": "WebSaha\\hal\u0131sahaShop\\images\\blog\\socials.png",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\hal\u0131sahaShop\\images\\blog\\socials.png - PNG [240x21, 32 bit, PNG]",
+              "RelativeToolTip": "WebSaha\\hal\u0131sahaShop\\images\\blog\\socials.png - PNG [240x21, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-22T20:05:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\DataAccessLayer\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\DataAccessLayer\\Data\\DataContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:16:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\AdminCategoryController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\AdminCategoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:28:00.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminProduct\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Create.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminProduct\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:17:52.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminRolProvider.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Roller\\AdminRolProvider.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Roller\\AdminRolProvider.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Roller\\AdminRolProvider.cs",
+              "RelativeToolTip": "WebSaha\\Roller\\AdminRolProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:34:08.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:27:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:20:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminProduct\\Update.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminProduct\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:19:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:18:44.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\AdminProductController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\AdminProductController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:16:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TotalCount.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Cart\\TotalCount.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Cart\\TotalCount.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Cart\\TotalCount.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Cart\\TotalCount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:15:57.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T19:14:38.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "islem.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\islem.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Sales\\islem.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\islem.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Sales\\islem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:35:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:34:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Buy.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\Buy.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Sales\\Buy.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Sales\\Buy.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Sales\\Buy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:23:18.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:47:27.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PopularProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Product\\PopularProduct.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\Product\\PopularProduct.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\Product\\PopularProduct.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\Product\\PopularProduct.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebSaha\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T19:25:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:22:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:37:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebSaha\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebSaha\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:34:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Web.config",
+              "RelativeDocumentMoniker": "WebSaha\\Web.config",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Web.config",
+              "RelativeToolTip": "WebSaha\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T18:33:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebSaha\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebSaha\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:22:27.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Concrete\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Concrete\\ProductRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:19:22.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Concrete\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Concrete\\CategoryRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:19:10.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:18:49.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Abstract\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\BusinessLayer\\Abstract\\GenericRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:18:35.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\web.config",
+              "RelativeDocumentMoniker": "WebSaha\\Views\\web.config",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\WebSaha\\Views\\web.config",
+              "RelativeToolTip": "WebSaha\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T18:33:13.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\User.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:51.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Sales.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\Sales.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Sales.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:44.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:34.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Comment.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\WebSaha\\EntityLayer\\Entities\\Cart.cs",
+              "RelativeToolTip": "EntityLayer\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:17:03.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
